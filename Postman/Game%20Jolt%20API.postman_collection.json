@@ -1,0 +1,10 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Game Jolt API",
+		"_postman_id": "d458c496-da80-98a5-be7e-2ab026951a00",
+		"description": "A complete collection of Game Jolt API Version 1.0 calls in POSTMAN for testing.\nSee: http://gamejolt.com/api/doc/game for complete documentation.\nOr https://github.com/gamejolt/game-api-libraries for the latest API implementations.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": []
+}
