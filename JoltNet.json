@@ -1,0 +1,10 @@
+{
+	"name": "JoltNet .Net Api",
+	"api": "1.2",
+	"engine": ".Net (C#/VB/F#)",
+	"homepage": "https://github.com/nilllzz/JoltNet",
+	"author": "nilllzz",
+	"code": "https://github.com/nilllzz/JoltNet",
+	"bugs": "https://github.com/nilllzz/JoltNet/issues",
+	"license": "MIT"
+}
