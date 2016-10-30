@@ -25,6 +25,8 @@
 }
 ```
 
+Please use single tabs instead of spaces in your JSON file.
+
 - `name` **required** can be anything. Call it what you'd like.
 - `api` **required** a version string that matches the Game API version that your library implements.
 - `engine` **required** the programming language that your library works in, or the game engine/tool.
