@@ -1,0 +1,10 @@
+{
+	"name": "Unity API",
+	"api": "1.0",
+	"engine": "Unity",
+	"homepage": "http://gamejolt.com/games/unity-api/15887",
+	"author": "loicteixeira",
+	"code": "https://github.com/loicteixeira/gj-unity-api",
+	"bugs": "https://github.com/loicteixeira/gj-unity-api/issues",
+	"license": "MIT"
+}
